@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang web đầu tiên</title>
+</head>
+<body>
+    <h1>Xin chào!</h1>
+    <p>Đây là trang HTML cơ bản của tôi.</p>
+
+    <h2>Danh sách việc cần làm:</h2>
+    <ul>
+        <li>Học HTML</li>
+        <li>Học CSS</li>
+        <li>Học JavaScript</li>
+    </ul>
+
+    <a href="https://www.google.com">Đi tới Google</a>
+</body>
+</html>
